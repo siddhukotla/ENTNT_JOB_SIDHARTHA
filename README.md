@@ -1,6 +1,6 @@
 # Communication Tracking System
 
-A comprehensive solution for managing company communications and tracking engagement.
+A comprehensive solution for managing company communications and tracking engagement. The React-based Calendar Application is designed to help organizations maintain strong professional relationships by tracking interactions, scheduling follow-ups, and managing engagement frequency. It serves as a centralized platform for logging past communications and planning future ones, ensuring timely and consistent follow-ups.
 
 ## Features
 
@@ -12,7 +12,7 @@ A comprehensive solution for managing company communications and tracking engage
   - Reporting Dashboard: Analyze communication trends and effectiveness
 - **Calendar Integration**: Schedule and view upcoming communications
 - **Analytics**: Visualize communication patterns and engagement metrics
-- **Theme Support**: colour backgroud theme 
+- **Theme Support**: colour background theme 
 
 ## Setup Instructions
 
@@ -117,7 +117,6 @@ public/                   # Static assets
 1. **Data Persistence**: Currently uses in-memory state management. Data is lost on page refresh.
 2. **Authentication**: No user authentication implemented.
 3. **Form Validation**: Limited validation in company management forms.
-
 
 ## Contributing
 

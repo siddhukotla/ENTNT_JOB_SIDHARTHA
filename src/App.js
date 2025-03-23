@@ -34,7 +34,7 @@ const App = () => {
               flexGrow: 1, 
               textAlign: 'center'
             }}>
-              COMMUNICATION TRACKING BY SIDHARTHA
+              COMMUNICATION TRACKING
             </Typography>
           </Toolbar>
         </AppBar>

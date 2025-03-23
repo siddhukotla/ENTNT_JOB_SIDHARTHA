@@ -1,6 +1,20 @@
 # Communication Tracking System
 
 A comprehensive solution for managing company communications and tracking engagement. The React-based Calendar Application is designed to help organizations maintain strong professional relationships by tracking interactions, scheduling follow-ups, and managing engagement frequency. It serves as a centralized platform for logging past communications and planning future ones, ensuring timely and consistent follow-ups.
+# UI DESIGN
+
+![image](https://github.com/user-attachments/assets/370263f3-1203-418c-9ff9-a2b68823ef44)
+![image](https://github.com/user-attachments/assets/41d45b67-d4cc-4e43-a554-02add1a37d82)
+![image](https://github.com/user-attachments/assets/3cb70df8-9801-4485-bf90-2c79fefa09e4)
+![image](https://github.com/user-attachments/assets/402dc6a9-3b53-43b5-bf1d-ed84c4440236)
+![image](https://github.com/user-attachments/assets/f08e7e1d-72be-4a61-b48e-1da549512302)
+![image](https://github.com/user-attachments/assets/06f4b362-8173-4680-9086-958906ad2966)
+![image](https://github.com/user-attachments/assets/17fabd37-6d6c-455c-94ba-0aa253ba7999)
+![image](https://github.com/user-attachments/assets/470b1899-284e-4e0f-b785-c21372948513)
+![image](https://github.com/user-attachments/assets/a444d796-4985-4fb5-857b-8af607eb5da8)
+![image](https://github.com/user-attachments/assets/42ba7e22-3291-4f6b-a956-d8601c448481)
+![image](https://github.com/user-attachments/assets/b42fe829-0daf-4556-98f8-ad9866adc4bf)
+![image](https://github.com/user-attachments/assets/2e80cc8f-51df-4282-aa1c-e3e07933247c)
 
 ## Features
 
